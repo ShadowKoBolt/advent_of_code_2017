@@ -1,5 +1,3 @@
-require 'pry'
-require 'pry-nav'
 Examples = %w[1212 1221 123425 123123 12131415]
 Results = [6, 0, 4, 12, 4]
 
